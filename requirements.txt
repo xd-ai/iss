@@ -1,0 +1,7 @@
+pandas<1.4
+aiohttp~=3.8.1
+SQLAlchemy<1.4.0
+requests~=2.27.1
+psycopg2-binary~=2.9.3
+redis~=4.0
+apache-airflow~=2.2.4
